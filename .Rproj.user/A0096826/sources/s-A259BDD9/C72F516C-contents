@@ -1,6 +1,7 @@
 library(tidyverse)
 
 read_delim("https://www.data.gouv.fr/fr/datasets/r/61533034-0f2f-4b16-9a6d-28ffabb33a02",";") %>%
+  mutate(epci2020 = ifelse(epci2020 == "245900410",as.character("200093201"),as.character(epci2020))) %>%
   select(epci2020) %>%
   distinct() %>%
   unlist() %>%
