@@ -1,6 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-242100410,Dijon Métropole,2020-09-23,161.4,69.2,250,100
-242100410,Dijon Métropole,2020-09-24,170.9,70.2,250,100
 242100410,Dijon Métropole,2020-09-25,167.5,80.1,250,100
 242100410,Dijon Métropole,2020-09-26,172.4,73.1,250,100
 242100410,Dijon Métropole,2020-09-27,160.2,71.3,250,100
@@ -21,4 +19,5 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 242100410,Dijon Métropole,2020-10-12,190.7,116,250,100
 242100410,Dijon Métropole,2020-10-13,206.1,125.8,250,100
 242100410,Dijon Métropole,2020-10-14,212.3,131.7,250,100
-242100410,Dijon Métropole,2020-10-15,216,131.5,250,100
+242100410,Dijon Métropole,2020-10-15,223.6,149.6,250,100
+242100410,Dijon Métropole,2020-10-16,220.2,137.8,250,100

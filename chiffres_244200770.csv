@@ -1,6 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-244200770,Saint-Etienne Métropole,2020-09-23,196.1,130.2,250,100
-244200770,Saint-Etienne Métropole,2020-09-24,201.6,139.2,250,100
 244200770,Saint-Etienne Métropole,2020-09-25,211.8,145.4,250,100
 244200770,Saint-Etienne Métropole,2020-09-26,215,145.4,250,100
 244200770,Saint-Etienne Métropole,2020-09-27,216,147.6,250,100
@@ -18,7 +16,8 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 244200770,Saint-Etienne Métropole,2020-10-09,488.6,331.9,250,100
 244200770,Saint-Etienne Métropole,2020-10-10,504.1,358.4,250,100
 244200770,Saint-Etienne Métropole,2020-10-11,512.5,373,250,100
-244200770,Saint-Etienne Métropole,2020-10-12,571.5,430.2,250,100
-244200770,Saint-Etienne Métropole,2020-10-13,622.1,509.9,250,100
-244200770,Saint-Etienne Métropole,2020-10-14,674.9,609.3,250,100
-244200770,Saint-Etienne Métropole,2020-10-15,700.1,652.7,250,100
+244200770,Saint-Etienne Métropole,2020-10-12,571.7,430.2,250,100
+244200770,Saint-Etienne Métropole,2020-10-13,627,515.5,250,100
+244200770,Saint-Etienne Métropole,2020-10-14,689.9,622.8,250,100
+244200770,Saint-Etienne Métropole,2020-10-15,733.2,676.4,250,100
+244200770,Saint-Etienne Métropole,2020-10-16,716.6,664.5,250,100
