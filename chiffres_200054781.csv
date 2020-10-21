@@ -1,5 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200054781,Métropole du Grand Paris,2020-09-25,214.5,109,250,100
 200054781,Métropole du Grand Paris,2020-09-26,213.7,108.9,250,100
 200054781,Métropole du Grand Paris,2020-09-27,212.8,109.4,250,100
 200054781,Métropole du Grand Paris,2020-09-28,209.6,106.4,250,100
@@ -15,9 +14,10 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200054781,Métropole du Grand Paris,2020-10-08,330.9,165.7,250,100
 200054781,Métropole du Grand Paris,2020-10-09,346.5,179.4,250,100
 200054781,Métropole du Grand Paris,2020-10-10,350.6,181.1,250,100
-200054781,Métropole du Grand Paris,2020-10-11,352.2,183,250,100
-200054781,Métropole du Grand Paris,2020-10-12,366.1,194.8,250,100
-200054781,Métropole du Grand Paris,2020-10-13,374,208.4,250,100
-200054781,Métropole du Grand Paris,2020-10-14,376.9,218.2,250,100
-200054781,Métropole du Grand Paris,2020-10-15,376.3,224.6,250,100
-200054781,Métropole du Grand Paris,2020-10-16,367.1,222.2,250,100
+200054781,Métropole du Grand Paris,2020-10-11,352.3,183,250,100
+200054781,Métropole du Grand Paris,2020-10-12,366.2,194.8,250,100
+200054781,Métropole du Grand Paris,2020-10-13,374.2,208.4,250,100
+200054781,Métropole du Grand Paris,2020-10-14,377.6,218.5,250,100
+200054781,Métropole du Grand Paris,2020-10-15,379,226,250,100
+200054781,Métropole du Grand Paris,2020-10-16,380.1,230.2,250,100
+200054781,Métropole du Grand Paris,2020-10-17,378.3,233.8,250,100
