@@ -28,7 +28,7 @@ read_delim("https://www.data.gouv.fr/fr/datasets/r/61533034-0f2f-4b16-9a6d-28ffa
   select(epci2020,`Nom du groupement`,dernier_jour,clage_65,ti) %>%
   pivot_wider(names_from = clage_65,values_from = ti,names_prefix = "age_") %>%
   filter(dernier_jour == max(dernier_jour)) %>%
-  filter(age_0 > 250 & age_65 > 100)
+  filter(age_65 > 100) %>% arrange(desc(age_0))
 
 read_delim("https://www.data.gouv.fr/fr/datasets/r/61533034-0f2f-4b16-9a6d-28ffabb33a02",";") %>%
   mutate(epci2020 = ifelse(epci2020 == "245900410",as.character("200093201"),as.character(epci2020))) %>%

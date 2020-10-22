@@ -1,5 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200054807,Métropole d'Aix-Marseille-Provence,2020-09-26,199.8,148.2,250,100
 200054807,Métropole d'Aix-Marseille-Provence,2020-09-27,198.9,148,250,100
 200054807,Métropole d'Aix-Marseille-Provence,2020-09-28,186.6,145.2,250,100
 200054807,Métropole d'Aix-Marseille-Provence,2020-09-29,185.2,142.9,250,100
@@ -19,6 +18,7 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200054807,Métropole d'Aix-Marseille-Provence,2020-10-13,260.9,190.2,250,100
 200054807,Métropole d'Aix-Marseille-Provence,2020-10-14,275.6,202.3,250,100
 200054807,Métropole d'Aix-Marseille-Provence,2020-10-15,295.8,237.7,250,100
-200054807,Métropole d'Aix-Marseille-Provence,2020-10-16,313.9,250.4,250,100
-200054807,Métropole d'Aix-Marseille-Provence,2020-10-17,320.7,257.3,250,100
-200054807,Métropole d'Aix-Marseille-Provence,2020-10-18,322.7,262.8,250,100
+200054807,Métropole d'Aix-Marseille-Provence,2020-10-16,314.1,250.7,250,100
+200054807,Métropole d'Aix-Marseille-Provence,2020-10-17,321,257.5,250,100
+200054807,Métropole d'Aix-Marseille-Provence,2020-10-18,323.6,263.1,250,100
+200054807,Métropole d'Aix-Marseille-Provence,2020-10-19,359.9,319.1,250,100
