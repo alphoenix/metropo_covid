@@ -45,6 +45,6 @@ read_delim("https://www.data.gouv.fr/fr/datasets/r/57d44bd6-c9fd-424f-9a72-78344
   filter(cl_age90 == "0") %>%
   mutate(taux_incid_glissant = slider::slide_dbl(P,sum,.before=6,.after=0,.complete=TRUE)/pop*100000) %>%
   filter(jour > "2020-09-01") %>%
-  select(jour,taux_incid_glissant) %>% View
+  select(jour,taux_incid_glissant) %>% 
   write_csv("chiffres_france.csv")
   
