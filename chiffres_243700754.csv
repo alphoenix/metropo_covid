@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-243700754,Tours Métropole Val de Loire,2020-09-27,96.2,44.3,250,100
-243700754,Tours Métropole Val de Loire,2020-09-28,93.6,37.1,250,100
-243700754,Tours Métropole Val de Loire,2020-09-29,91.2,40.2,250,100
 243700754,Tours Métropole Val de Loire,2020-09-30,92.1,38.6,250,100
 243700754,Tours Métropole Val de Loire,2020-10-01,102.4,33.9,250,100
 243700754,Tours Métropole Val de Loire,2020-10-02,114,38.6,250,100
@@ -14,11 +11,14 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 243700754,Tours Métropole Val de Loire,2020-10-09,167.6,82.1,250,100
 243700754,Tours Métropole Val de Loire,2020-10-10,181.2,86.9,250,100
 243700754,Tours Métropole Val de Loire,2020-10-11,180.8,86.9,250,100
-243700754,Tours Métropole Val de Loire,2020-10-12,193.7,96.3,250,100
-243700754,Tours Métropole Val de Loire,2020-10-13,210.8,123.1,250,100
-243700754,Tours Métropole Val de Loire,2020-10-14,223.2,138.1,250,100
-243700754,Tours Métropole Val de Loire,2020-10-15,223.7,138.1,250,100
-243700754,Tours Métropole Val de Loire,2020-10-16,239.7,130.2,250,100
-243700754,Tours Métropole Val de Loire,2020-10-17,237.7,128.6,250,100
-243700754,Tours Métropole Val de Loire,2020-10-18,239.1,127.1,250,100
-243700754,Tours Métropole Val de Loire,2020-10-19,259,168.2,250,100
+243700754,Tours Métropole Val de Loire,2020-10-12,194,96.3,250,100
+243700754,Tours Métropole Val de Loire,2020-10-13,211.1,123.1,250,100
+243700754,Tours Métropole Val de Loire,2020-10-14,223.5,138.1,250,100
+243700754,Tours Métropole Val de Loire,2020-10-15,224.1,138.1,250,100
+243700754,Tours Métropole Val de Loire,2020-10-16,240,130.2,250,100
+243700754,Tours Métropole Val de Loire,2020-10-17,238.4,128.6,250,100
+243700754,Tours Métropole Val de Loire,2020-10-18,239.8,127.1,250,100
+243700754,Tours Métropole Val de Loire,2020-10-19,259.3,168.2,250,100
+243700754,Tours Métropole Val de Loire,2020-10-20,287.8,157.2,250,100
+243700754,Tours Métropole Val de Loire,2020-10-21,312.3,188.1,250,100
+243700754,Tours Métropole Val de Loire,2020-10-22,353.5,226.7,250,100

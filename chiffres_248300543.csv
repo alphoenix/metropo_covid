@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-248300543,Métropole Toulon-Provence-Méditerranée,2020-09-27,60.9,40.9,250,100
-248300543,Métropole Toulon-Provence-Méditerranée,2020-09-28,55.8,36,250,100
-248300543,Métropole Toulon-Provence-Méditerranée,2020-09-29,53.8,35.1,250,100
 248300543,Métropole Toulon-Provence-Méditerranée,2020-09-30,55,37.3,250,100
 248300543,Métropole Toulon-Provence-Méditerranée,2020-10-01,54.5,32,250,100
 248300543,Métropole Toulon-Provence-Méditerranée,2020-10-02,57.9,38.5,250,100
@@ -17,8 +14,11 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 248300543,Métropole Toulon-Provence-Méditerranée,2020-10-12,119.3,85.1,250,100
 248300543,Métropole Toulon-Provence-Méditerranée,2020-10-13,127.1,90.7,250,100
 248300543,Métropole Toulon-Provence-Méditerranée,2020-10-14,133.7,96.2,250,100
-248300543,Métropole Toulon-Provence-Méditerranée,2020-10-15,152.2,115,250,100
-248300543,Métropole Toulon-Provence-Méditerranée,2020-10-16,176.7,129.4,250,100
-248300543,Métropole Toulon-Provence-Méditerranée,2020-10-17,184.1,129.7,250,100
-248300543,Métropole Toulon-Provence-Méditerranée,2020-10-18,185.4,130.6,250,100
-248300543,Métropole Toulon-Provence-Méditerranée,2020-10-19,203.5,145.3,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-15,152.4,115,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-16,177.2,129.4,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-17,184.5,129.7,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-18,185.9,130.6,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-19,209,146.2,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-20,233.7,164.9,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-21,282.8,232.3,250,100
+248300543,Métropole Toulon-Provence-Méditerranée,2020-10-22,315.7,271.1,250,100

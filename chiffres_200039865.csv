@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200039865,Metz Métropole,2020-09-27,51.7,45.7,250,100
-200039865,Metz Métropole,2020-09-28,49.8,39.1,250,100
-200039865,Metz Métropole,2020-09-29,50.6,22.9,250,100
 200039865,Metz Métropole,2020-09-30,48.4,13.9,250,100
 200039865,Metz Métropole,2020-10-01,56.4,23.6,250,100
 200039865,Metz Métropole,2020-10-02,60.1,25.9,250,100
@@ -22,3 +19,6 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200039865,Metz Métropole,2020-10-17,184.2,103.4,250,100
 200039865,Metz Métropole,2020-10-18,185.7,108.5,250,100
 200039865,Metz Métropole,2020-10-19,218,135.9,250,100
+200039865,Metz Métropole,2020-10-20,245,156.9,250,100
+200039865,Metz Métropole,2020-10-21,286.6,156.4,250,100
+200039865,Metz Métropole,2020-10-22,337.5,213.9,250,100
