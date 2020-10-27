@@ -1,6 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200030195,Métropole Nice Côte d'Azur,2020-09-30,78.2,52.9,250,100
-200030195,Métropole Nice Côte d'Azur,2020-10-01,81.3,52.2,250,100
 200030195,Métropole Nice Côte d'Azur,2020-10-02,79.9,53.7,250,100
 200030195,Métropole Nice Côte d'Azur,2020-10-03,79.2,56,250,100
 200030195,Métropole Nice Côte d'Azur,2020-10-04,80.2,56,250,100
@@ -16,9 +14,10 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200030195,Métropole Nice Côte d'Azur,2020-10-14,152.1,112.6,250,100
 200030195,Métropole Nice Côte d'Azur,2020-10-15,150.7,109.3,250,100
 200030195,Métropole Nice Côte d'Azur,2020-10-16,162.8,117.8,250,100
-200030195,Métropole Nice Côte d'Azur,2020-10-17,164.2,126.8,250,100
-200030195,Métropole Nice Côte d'Azur,2020-10-18,163.9,126.1,250,100
-200030195,Métropole Nice Côte d'Azur,2020-10-19,161.8,121,250,100
-200030195,Métropole Nice Côte d'Azur,2020-10-20,166.3,126.3,250,100
-200030195,Métropole Nice Côte d'Azur,2020-10-21,171.1,130.4,250,100
-200030195,Métropole Nice Côte d'Azur,2020-10-22,189.7,145.4,250,100
+200030195,Métropole Nice Côte d'Azur,2020-10-17,164.3,126.8,250,100
+200030195,Métropole Nice Côte d'Azur,2020-10-18,164.1,126.1,250,100
+200030195,Métropole Nice Côte d'Azur,2020-10-19,162,121,250,100
+200030195,Métropole Nice Côte d'Azur,2020-10-20,166.5,126.3,250,100
+200030195,Métropole Nice Côte d'Azur,2020-10-21,171.3,130.4,250,100
+200030195,Métropole Nice Côte d'Azur,2020-10-22,191.4,149.2,250,100
+200030195,Métropole Nice Côte d'Azur,2020-10-23,203.7,167.2,250,100

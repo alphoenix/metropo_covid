@@ -1,6 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-242900314,Brest Métropole,2020-09-30,52.1,28.7,250,100
-242900314,Brest Métropole,2020-10-01,53.2,28.2,250,100
 242900314,Brest Métropole,2020-10-02,54.1,30.8,250,100
 242900314,Brest Métropole,2020-10-03,58.8,25.7,250,100
 242900314,Brest Métropole,2020-10-04,65.4,25.7,250,100
@@ -22,3 +20,4 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 242900314,Brest Métropole,2020-10-20,130.1,55.8,250,100
 242900314,Brest Métropole,2020-10-21,139.1,45.7,250,100
 242900314,Brest Métropole,2020-10-22,147.5,50.3,250,100
+242900314,Brest Métropole,2020-10-23,160.9,54.9,250,100

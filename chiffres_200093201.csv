@@ -1,6 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200093201,Métropole Européenne de Lille,2020-09-30,276.8,179.8,250,100
-200093201,Métropole Européenne de Lille,2020-10-01,286.2,209.3,250,100
 200093201,Métropole Européenne de Lille,2020-10-02,299.5,250.3,250,100
 200093201,Métropole Européenne de Lille,2020-10-03,310.1,257,250,100
 200093201,Métropole Européenne de Lille,2020-10-04,321.9,259.6,250,100
@@ -20,5 +18,6 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200093201,Métropole Européenne de Lille,2020-10-18,706,567.2,250,100
 200093201,Métropole Européenne de Lille,2020-10-19,737.4,589.2,250,100
 200093201,Métropole Européenne de Lille,2020-10-20,764.2,653.3,250,100
-200093201,Métropole Européenne de Lille,2020-10-21,809.5,715.3,250,100
-200093201,Métropole Européenne de Lille,2020-10-22,837.4,753,250,100
+200093201,Métropole Européenne de Lille,2020-10-21,809.7,715.9,250,100
+200093201,Métropole Européenne de Lille,2020-10-22,840.3,757.5,250,100
+200093201,Métropole Européenne de Lille,2020-10-23,874,797.2,250,100

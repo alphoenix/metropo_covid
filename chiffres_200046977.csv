@@ -1,6 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200046977,Métropole de Lyon,2020-09-30,229,136.4,250,100
-200046977,Métropole de Lyon,2020-10-01,228.2,128.1,250,100
 200046977,Métropole de Lyon,2020-10-02,233.5,135.6,250,100
 200046977,Métropole de Lyon,2020-10-03,234.7,136.7,250,100
 200046977,Métropole de Lyon,2020-10-04,235.4,138.5,250,100
@@ -21,4 +19,5 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200046977,Métropole de Lyon,2020-10-19,642.1,522,250,100
 200046977,Métropole de Lyon,2020-10-20,678.5,556.3,250,100
 200046977,Métropole de Lyon,2020-10-21,721.9,610.4,250,100
-200046977,Métropole de Lyon,2020-10-22,759.8,632.8,250,100
+200046977,Métropole de Lyon,2020-10-22,763.2,637.5,250,100
+200046977,Métropole de Lyon,2020-10-23,788.3,650.2,250,100
