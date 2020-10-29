@@ -1,5 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200040715,Grenoble-Alpes-Métropole,2020-10-02,275.1,107.7,250,100
 200040715,Grenoble-Alpes-Métropole,2020-10-03,280.7,110.9,250,100
 200040715,Grenoble-Alpes-Métropole,2020-10-04,280.3,113.2,250,100
 200040715,Grenoble-Alpes-Métropole,2020-10-05,297.4,133.5,250,100
@@ -18,6 +17,8 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200040715,Grenoble-Alpes-Métropole,2020-10-18,548.5,364.2,250,100
 200040715,Grenoble-Alpes-Métropole,2020-10-19,584.9,411.1,250,100
 200040715,Grenoble-Alpes-Métropole,2020-10-20,618.4,452.5,250,100
-200040715,Grenoble-Alpes-Métropole,2020-10-21,646.4,487.9,250,100
-200040715,Grenoble-Alpes-Métropole,2020-10-22,674.7,509.9,250,100
-200040715,Grenoble-Alpes-Métropole,2020-10-23,629.7,526.3,250,100
+200040715,Grenoble-Alpes-Métropole,2020-10-21,647.1,490.3,250,100
+200040715,Grenoble-Alpes-Métropole,2020-10-22,698.8,543.7,250,100
+200040715,Grenoble-Alpes-Métropole,2020-10-23,738.7,626.7,250,100
+200040715,Grenoble-Alpes-Métropole,2020-10-24,756.7,658,250,100
+200040715,Grenoble-Alpes-Métropole,2020-10-25,756.1,649.7,250,100

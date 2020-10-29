@@ -1,5 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-243300316,Bordeaux Métropole,2020-10-02,144.6,54.5,250,100
 243300316,Bordeaux Métropole,2020-10-03,143.7,55.2,250,100
 243300316,Bordeaux Métropole,2020-10-04,143.8,52.9,250,100
 243300316,Bordeaux Métropole,2020-10-05,138.8,53.1,250,100
@@ -18,6 +17,8 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 243300316,Bordeaux Métropole,2020-10-18,147.1,107.8,250,100
 243300316,Bordeaux Métropole,2020-10-19,154.9,133.9,250,100
 243300316,Bordeaux Métropole,2020-10-20,164.9,140.6,250,100
-243300316,Bordeaux Métropole,2020-10-21,184.8,157.7,250,100
-243300316,Bordeaux Métropole,2020-10-22,200.8,162.5,250,100
-243300316,Bordeaux Métropole,2020-10-23,217.9,162.8,250,100
+243300316,Bordeaux Métropole,2020-10-21,185,157.7,250,100
+243300316,Bordeaux Métropole,2020-10-22,201.7,162.5,250,100
+243300316,Bordeaux Métropole,2020-10-23,227.4,166.1,250,100
+243300316,Bordeaux Métropole,2020-10-24,231.5,164.5,250,100
+243300316,Bordeaux Métropole,2020-10-25,235.1,157.3,250,100
