@@ -1,5 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-245400676,Métropole du Grand Nancy,2020-10-03,87.9,42.8,250,100
 245400676,Métropole du Grand Nancy,2020-10-04,89.4,43.5,250,100
 245400676,Métropole du Grand Nancy,2020-10-05,96.1,48.4,250,100
 245400676,Métropole du Grand Nancy,2020-10-06,104.2,56.7,250,100
@@ -19,6 +18,7 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 245400676,Métropole du Grand Nancy,2020-10-20,245.1,140.1,250,100
 245400676,Métropole du Grand Nancy,2020-10-21,265.4,168.5,250,100
 245400676,Métropole du Grand Nancy,2020-10-22,308.3,219,250,100
-245400676,Métropole du Grand Nancy,2020-10-23,332.8,216.9,250,100
-245400676,Métropole du Grand Nancy,2020-10-24,352.5,230.8,250,100
-245400676,Métropole du Grand Nancy,2020-10-25,356.1,242.5,250,100
+245400676,Métropole du Grand Nancy,2020-10-23,333,216.9,250,100
+245400676,Métropole du Grand Nancy,2020-10-24,352.7,230.8,250,100
+245400676,Métropole du Grand Nancy,2020-10-25,356.5,243.9,250,100
+245400676,Métropole du Grand Nancy,2020-10-26,387.5,270.1,250,100

@@ -1,5 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-243500139,Rennes Métropole,2020-10-03,148.5,34.7,250,100
 243500139,Rennes Métropole,2020-10-04,145.1,33.3,250,100
 243500139,Rennes Métropole,2020-10-05,150.1,38.9,250,100
 243500139,Rennes Métropole,2020-10-06,146.3,40.3,250,100
@@ -20,5 +19,6 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 243500139,Rennes Métropole,2020-10-21,195.3,112.5,250,100
 243500139,Rennes Métropole,2020-10-22,208,121.2,250,100
 243500139,Rennes Métropole,2020-10-23,226.3,131.6,250,100
-243500139,Rennes Métropole,2020-10-24,233.5,131.9,250,100
-243500139,Rennes Métropole,2020-10-25,234.8,137.9,250,100
+243500139,Rennes Métropole,2020-10-24,233.9,133.3,250,100
+243500139,Rennes Métropole,2020-10-25,235.2,139.3,250,100
+243500139,Rennes Métropole,2020-10-26,249.1,158.4,250,100
