@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-243400017,Montpellier Méditerranée Métropole,2020-10-05,205.4,198.9,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-06,216.1,210.3,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-07,235.4,230.8,250,100
 243400017,Montpellier Méditerranée Métropole,2020-10-08,245,246.9,250,100
 243400017,Montpellier Méditerranée Métropole,2020-10-09,243.8,233.6,250,100
 243400017,Montpellier Méditerranée Métropole,2020-10-10,244.3,204.3,250,100
@@ -16,9 +13,12 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 243400017,Montpellier Méditerranée Métropole,2020-10-19,328.6,263.2,250,100
 243400017,Montpellier Méditerranée Métropole,2020-10-20,342.9,317.4,250,100
 243400017,Montpellier Méditerranée Métropole,2020-10-21,371.1,334.7,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-22,381.2,332.4,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-23,411.8,336.4,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-24,448.2,321,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-25,444.7,328.6,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-26,467.3,384.7,250,100
-243400017,Montpellier Méditerranée Métropole,2020-10-27,472.1,377,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-22,381.4,332.4,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-23,412.2,336.4,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-24,448.6,321,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-25,445.1,328.6,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-26,471.5,385.9,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-27,483.4,389,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-28,486.2,384.5,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-29,497.6,434.8,250,100
+243400017,Montpellier Méditerranée Métropole,2020-10-30,459.8,403.4,250,100

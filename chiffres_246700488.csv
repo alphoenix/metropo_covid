@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-246700488,Eurométropole de Strasbourg,2020-10-05,82.9,30.3,250,100
-246700488,Eurométropole de Strasbourg,2020-10-06,104.9,37.1,250,100
-246700488,Eurométropole de Strasbourg,2020-10-07,118.2,47.4,250,100
 246700488,Eurométropole de Strasbourg,2020-10-08,126.4,51.5,250,100
 246700488,Eurométropole de Strasbourg,2020-10-09,141.2,61.2,250,100
 246700488,Eurométropole de Strasbourg,2020-10-10,144.9,65.7,250,100
@@ -20,5 +17,8 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 246700488,Eurométropole de Strasbourg,2020-10-23,524.7,270.1,250,100
 246700488,Eurométropole de Strasbourg,2020-10-24,570.2,296.5,250,100
 246700488,Eurométropole de Strasbourg,2020-10-25,576.7,302.2,250,100
-246700488,Eurométropole de Strasbourg,2020-10-26,633.6,373.4,250,100
-246700488,Eurométropole de Strasbourg,2020-10-27,670.9,435.7,250,100
+246700488,Eurométropole de Strasbourg,2020-10-26,634.6,374.6,250,100
+246700488,Eurométropole de Strasbourg,2020-10-27,673.9,438,250,100
+246700488,Eurométropole de Strasbourg,2020-10-28,706.7,461.1,250,100
+246700488,Eurométropole de Strasbourg,2020-10-29,709,489.8,250,100
+246700488,Eurométropole de Strasbourg,2020-10-30,684,488.7,250,100

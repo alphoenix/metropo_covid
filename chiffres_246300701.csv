@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-246300701,Clermont Auvergne Métropole,2020-10-05,196.1,103.1,250,100
-246300701,Clermont Auvergne Métropole,2020-10-06,208.5,125.6,250,100
-246300701,Clermont Auvergne Métropole,2020-10-07,204.9,127.9,250,100
 246300701,Clermont Auvergne Métropole,2020-10-08,212.7,138.1,250,100
 246300701,Clermont Auvergne Métropole,2020-10-09,228.7,160.4,250,100
 246300701,Clermont Auvergne Métropole,2020-10-10,236,181.6,250,100
@@ -20,5 +17,8 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 246300701,Clermont Auvergne Métropole,2020-10-23,527.3,431.3,250,100
 246300701,Clermont Auvergne Métropole,2020-10-24,546.1,439,250,100
 246300701,Clermont Auvergne Métropole,2020-10-25,564,448.3,250,100
-246300701,Clermont Auvergne Métropole,2020-10-26,597,502.9,250,100
-246300701,Clermont Auvergne Métropole,2020-10-27,600.7,487.8,250,100
+246300701,Clermont Auvergne Métropole,2020-10-26,598.7,507.8,250,100
+246300701,Clermont Auvergne Métropole,2020-10-27,613.2,506.2,250,100
+246300701,Clermont Auvergne Métropole,2020-10-28,628.8,535.4,250,100
+246300701,Clermont Auvergne Métropole,2020-10-29,624,574.1,250,100
+246300701,Clermont Auvergne Métropole,2020-10-30,594.4,554.6,250,100

@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-243700754,Tours Métropole Val de Loire,2020-10-05,132,55.3,250,100
-243700754,Tours Métropole Val de Loire,2020-10-06,145.3,68,250,100
-243700754,Tours Métropole Val de Loire,2020-10-07,153.3,68,250,100
 243700754,Tours Métropole Val de Loire,2020-10-08,165.3,75.8,250,100
 243700754,Tours Métropole Val de Loire,2020-10-09,167.6,82.1,250,100
 243700754,Tours Métropole Val de Loire,2020-10-10,181.2,86.9,250,100
@@ -20,5 +17,8 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 243700754,Tours Métropole Val de Loire,2020-10-23,375,248.9,250,100
 243700754,Tours Métropole Val de Loire,2020-10-24,390.9,263.1,250,100
 243700754,Tours Métropole Val de Loire,2020-10-25,391.7,267.8,250,100
-243700754,Tours Métropole Val de Loire,2020-10-26,415.5,257.5,250,100
-243700754,Tours Métropole Val de Loire,2020-10-27,404,250.7,250,100
+243700754,Tours Métropole Val de Loire,2020-10-26,416.9,257.5,250,100
+243700754,Tours Métropole Val de Loire,2020-10-27,423.6,252.3,250,100
+243700754,Tours Métropole Val de Loire,2020-10-28,430.3,260.2,250,100
+243700754,Tours Métropole Val de Loire,2020-10-29,410.7,229.5,250,100
+243700754,Tours Métropole Val de Loire,2020-10-30,381.1,216.9,250,100

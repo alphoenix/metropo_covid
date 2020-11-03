@@ -1,7 +1,4 @@
 epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
-200023414,Métropole Rouen Normandie,2020-10-05,201,111.9,250,100
-200023414,Métropole Rouen Normandie,2020-10-06,227.4,143.7,250,100
-200023414,Métropole Rouen Normandie,2020-10-07,252.8,161.2,250,100
 200023414,Métropole Rouen Normandie,2020-10-08,257.8,167.3,250,100
 200023414,Métropole Rouen Normandie,2020-10-09,256.1,154.7,250,100
 200023414,Métropole Rouen Normandie,2020-10-10,267.2,164.4,250,100
@@ -20,5 +17,8 @@ epci2020,Nom du groupement,dernier_jour,age_0,age_65,alerte_max_0,alerte_max_65
 200023414,Métropole Rouen Normandie,2020-10-23,344.1,275.3,250,100
 200023414,Métropole Rouen Normandie,2020-10-24,354.2,285.3,250,100
 200023414,Métropole Rouen Normandie,2020-10-25,363.8,307.4,250,100
-200023414,Métropole Rouen Normandie,2020-10-26,406.6,363,250,100
-200023414,Métropole Rouen Normandie,2020-10-27,420.2,377.4,250,100
+200023414,Métropole Rouen Normandie,2020-10-26,407.6,364.1,250,100
+200023414,Métropole Rouen Normandie,2020-10-27,423.5,378.5,250,100
+200023414,Métropole Rouen Normandie,2020-10-28,443.6,388.7,250,100
+200023414,Métropole Rouen Normandie,2020-10-29,438.4,407.1,250,100
+200023414,Métropole Rouen Normandie,2020-10-30,427.3,412.6,250,100
